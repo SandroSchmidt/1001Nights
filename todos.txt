@@ -16,3 +16,6 @@ Its a festival using soundstorms Underground area with 1 additional stage which 
 - Areas Required to be measured - all 5 stage areas, vip decks in each SL & SR, walkways 
 - Capacities - will follow with 
 - Methods of Sensors - 4 or 5 staff on ground who'll need to be added to report - names to follow closer and ticket scans in
+
+
+https://sandroschmidt.github.io/1001Nights/BB25CMD.html
